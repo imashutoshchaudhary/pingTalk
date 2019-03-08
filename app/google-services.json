@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "343445891551",
+    "firebase_url": "https://pingtalk.firebaseio.com",
+    "project_id": "pingtalk",
+    "storage_bucket": "pingtalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343445891551:android:553c18360647f9b9",
+        "android_client_info": {
+          "package_name": "com.verbosetech.pingTalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343445891551-ialvvfq4c1s26lc3oiebb5l3gudcub60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verbosetech.pingTalk",
+            "certificate_hash": "29c7f1abc993b546eb224e089999db5c56aa8eb2"
+          }
+        },
+        {
+          "client_id": "343445891551-an6f1ugf2den31mbgk4i3247jm6r278j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrSlKxk7ofKYZrJNKiiMlpLoeKpOBtuzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343445891551-an6f1ugf2den31mbgk4i3247jm6r278j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
